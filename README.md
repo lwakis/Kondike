@@ -1,6 +1,6 @@
-# test_flutter
+# Kondike
 
-A new Flutter project.
+A new Flutter project "Kondike game".
 
 ## Getting Started
 
